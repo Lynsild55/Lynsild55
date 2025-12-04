@@ -38,7 +38,7 @@
 [![20 kill and 5792 damage!!!](https://ytcards.demolab.com/?id=hTeu-0WALf4&title=20+kill+and+5792+damage%21%21%21&lang=en&timestamp=1574424543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "20 kill and 5792 damage!!!")](https://www.youtube.com/watch?v=hTeu-0WALf4)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@lynsild5744?sub_confirmation=1)
 
 #
 
