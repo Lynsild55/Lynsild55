@@ -30,7 +30,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Kerberos negotiations - explained by student](https://ytcards.demolab.com/?id=KhhCb5CqTkc&title=Kerberos+negotiations+-+explained+by+student&lang=en&timestamp=1761147969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kerberos negotiations - explained by student")](https://www.youtube.com/watch?v=KhhCb5CqTkc)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@lynsild5744?sub_confirmation=1)
